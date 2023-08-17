@@ -1,0 +1,11 @@
+.landing {
+    margin: 0;
+}
+
+.allpayments {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    text-align: left;
+}
